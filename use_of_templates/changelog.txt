@@ -1,0 +1,7 @@
+### fixed
+
+- I linked the file base.html and main.css, there was not the right css file name on line 8 of the file base.html 
+
+- The line 32 of the second app.py file was incorrect, we could not access the page time.html
+
+- In the second app.py file there was also an error, we could not see the real time on the time.html page
